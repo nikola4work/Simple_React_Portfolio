@@ -19,11 +19,8 @@ The web page contains :
 
 
 
-### For live preview click on the image!
 
-
-<a href=""><img src="">
-</a>
+<img src="https://github.com/nikola4work/Simple_React_Portfolio/blob/master/portfolio/src/assets/images/readme.gif">
 
 
 
