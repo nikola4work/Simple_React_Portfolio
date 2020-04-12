@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.g-card {
+  margin: 10px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.g-card-image {
+  border-radius: 10px;
+  width: 290px;
+  height: 340px;
+  box-shadow: 0pc 0pc 20px 1px black;
+  cursor: pointer;
+}
+
+.g-card-info {
+  margin-top: 10px;
+  min-height: 100px;
+}
+
+.g-card-title {
+  font-size: 23px;
+  margin: 0px;
+}
+
+.g-card-sub-title {
+  font-size: 15px;
+  margin: 0px;
+}
+
+.g-card-link {
+  text-decoration: none;
+}
+
+.g-card-link:hover {
+  text-decoration: none;
+  color: red;
+}
+
+.textarea {
+  resize: none;
+  text-transform: capitalize;
+}
+
+.form-group {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+}
+
+.form-control {}
+
+#full-name {}
+
+.display-7 {
+  margin-top: 100px;
+  position: relative;
+  font-size: 40px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Kotta One', serif;
+  font-family: 'Caveat', cursive;
+}
+
+.display-5 {
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.hr {
+  position: relative;
+  right: 24%;
+  width: 520px;
+}
+
+#navbar-toggle {
+  font-size: 27px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Kotta One', serif;
+  font-family: 'Caveat', cursive;
+}
+
+
+
+.nav-link {
+  transition: transform .1s;
+}
+
+.nav-link:hover {
+  transform: scale(1.1);
+  color:black;
+}
+
+
+  .about-text {
+    font-size: 25px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+  }
+  .btn {
+    margin-bottom: 40px;
+  }
+  #name {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Kotta One', serif;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+  }
+  .profilePic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 128%;
+    left: 23%;
+  }
